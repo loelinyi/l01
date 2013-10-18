@@ -1,0 +1,11 @@
+<div id="footer">
+    <ul class="footer_menu">
+        <li class="first"><a href="page.php">Home 主页</a></li>
+        <li><a href="page.php?l=d">Diary 日记</a></li>
+        <li><a href="page.php?l=n">Novel 小说</a></li>
+        <li><a href="page.php?l=p">Picture 图片</a></li>
+        <li><a href="page.php?l=c">Contact 联络</a></li>
+    </ul>
+    Copyright &copy; 2012 <a href='http://l01.ca'>l01.ca</a> Designed by <a href='http://l01.ca'>l01.ca</a>
+</div>
+

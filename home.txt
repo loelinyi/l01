@@ -1,0 +1,176 @@
+<div id="content">
+    <div class="content_box">
+        <h1>这个世界最不可理解的是它是可以理解的。</h1>
+        <h3>The most incomprehensible thing about the world is that it is at all comprehensible.</h3>
+        <h5>-- 阿尔伯特·爱因斯坦 Albert Einstein</h5>
+    </div>
+
+    <div class="post_box">
+        <div class="header">
+            <h2><a href="page.php?l=p#ip3tn">感恩节的枫叶</a></h2>
+            <div class="tag"><strong>Category:</strong> <a href="page.php?l=p#ip3tn">Picture 图片</a></div>
+            <span class="posted_date"> 14 Oct <strong>2013</strong> </span>
+        </div>
+        <img src="loelinyi_diary_image_ip3tn.png" alt="感恩节的枫叶" />
+        <div class="pb_right">
+            <p>加拿大的秋天，枫叶红了，随处可见。<br />枫树，大气却不霸气，非常符合加拿大的形象。</p>  
+            <div class="read_more"><a href="page.php?l=p#ip3tn">read more ...</a></div>
+        </div>
+        <div class="cleaner"></div>
+    </div>
+
+    <div class="post_box">
+        <div class="header">
+            <h2><a href="page.php?l=d#be3tf">读顾城论薛宝钗有感</a></h2>
+            <div class="tag"><strong>Category:</strong> <a href="page.php?l=d#be3tf">Diary 日记</a></div>
+            <span class="posted_date"> 5 Oct <strong>2013</strong> </span>
+        </div>
+        <img src="loelinyi_diary_image_be3tf.png" alt="读顾城论薛宝钗有感" />
+        <div class="pb_right">
+            <p>偶然的机会，在网上读到了一段美妙的文字，它出自《顾城哲思录》。</p>  
+            <div class="read_more"><a href="page.php?l=d#be3tf">read more ...</a></div>
+        </div>
+        <div class="cleaner"></div>
+    </div>
+
+    <div class="post_box">
+        <div class="header">
+            <h2><a href="page.php?l=d#be3sv">有感于陈道明评王菲离婚</a></h2>
+            <div class="tag"><strong>Category:</strong> <a href="page.php?l=d#be3sv">Diary 日记</a></div>
+            <span class="posted_date"> 22 Sept <strong>2013</strong> </span>
+        </div>
+        <img src="loelinyi_diary_image_be3sv.png" alt="有感于陈道明评王菲离婚" />
+        <div class="pb_right">
+            <p>看到网上一篇王菲离婚的评论，不知道是不是陈道明写的，按理陈道明不应该这么八卦，不过这篇评论的内容挺符合陈道明那清高的口味。既然陈道明都免不了俗，那咱也来无聊一把。</p>  
+            <div class="read_more"><a href="page.php?l=d#be3sv">read more ...</a></div>
+        </div>
+        <div class="cleaner"></div>
+    </div>
+
+    <div class="post_box">
+        <div class="header">
+            <h2><a href="page.php?l=p#ip3nk">游大峽谷</a></h2>
+            <div class="tag"><strong>Category:</strong> <a href="page.php?l=p#ip3nk">Picture 图片</a></div>
+            <span class="posted_date"> 29 Aug <strong>2013</strong> </span>
+        </div>
+        <img src="loelinyi_diary_image_ip3nk.png" alt="游大峽谷" />
+        <div class="pb_right">
+            <p>一直以為大峽谷是地球造山運動的傑作，一直以為是因為有了大峽谷形成的谷底才有了科羅拉多河，而事實上......</p>  
+            <div class="read_more"><a href="page.php?l=p#ip3nk">read more ...</a></div>
+        </div>
+        <div class="cleaner"></div>
+    </div>
+
+    <div class="post_box">
+        <div class="header">
+            <h2><a href="page.php?l=d#be3kz">人生的乐趣（网文修改版）</a></h2>
+            <div class="tag"><strong>Category:</strong> <a href="page.php?l=d#be3kz">Diary 日记</a></div>
+            <span class="posted_date"> 29 May <strong>2013</strong> </span>
+        </div>
+        <img src="loelinyi_diary_image_be3kz.png" alt="人生的乐趣（网文修改版）" />
+        <div class="pb_right">
+            <p>花开时节，有赏花的心情；感受春天的微风轻抚最初萌芽的青草和树叶，把稚嫩的清香散播到四面八方；酷热的夏天，享受一场豪雨和随之而来的凉爽、清新、草木苍翠；在秋天火一样的红叶面前停下脚步，体味凋谢前最盛大的灿烂；站在温暖的窗户后面欣赏大雪最初的样子：轻盈、迷蒙、笼罩大地，洁白还无人践踏。</p>  
+            <div class="read_more"><a href="page.php?l=d#be3kz">read more ...</a></div>
+        </div>
+        <div class="cleaner"></div>
+    </div>
+
+    <div class="post_box">
+        <div class="header">
+            <h2><a href="page.php?l=d#an3ky">人生最珍贵的不是得不到和已失去，而是珍惜现在所拥有的……</a></h2>
+            <div class="tag"><strong>Category:</strong> <a href="page.php?l=d#an3ky">Diary 日记</a></div>
+            <span class="posted_date"> 25 May <strong>2013</strong> </span>
+        </div>
+        <img src="loelinyi_diary_image_an3ky.png" alt="人生最珍贵的不是得不到和已失去，而是珍惜现在所拥有的……" />
+        <div class="pb_right">
+            <p>有的人，故乡是用来怀念的，青春就是用来追忆的，当他怀揣着它时，它一文不值，只有将它耗尽后，再回过头看，一切才有了意义…… 而有的人，随遇而安，哪都是故乡，珍惜眼前，活在当下，永远是青春……</p>
+            <div class="read_more"><a href="page.php?l=d#an3ky">read more ...</a></div>
+        </div>
+        <div class="cleaner"></div>
+    </div>
+
+    <div class="post_box">
+        <div class="header">
+            <h2><a href="page.php?l=d#be3iz">黄金时代的结束</a></h2>
+            <div class="tag"><strong>Category:</strong> <a href="page.php?l=d#be3iz">Diary 日记</a></div>
+            <span class="posted_date"> 30 Apr <strong>2013</strong> </span>
+        </div>
+        <img src="loelinyi_diary_image_be3iz.png" alt="黄金时代的结束" />
+        <div class="pb_right">
+            <p>疯抢黄金也许不是好的选择，因为索罗斯的“黄金避险地位已经被毁灭的观点”没错。</p>  
+            <div class="read_more"><a href="page.php?l=d#be3iz">read more ...</a></div>
+        </div>
+        <div class="cleaner"></div>
+    </div>
+
+    <div class="post_box">
+        <div class="header">
+            <h2><a href="page.php?l=d#be3ix">黄金时代的结束？</a></h2>
+            <div class="tag"><strong>Category:</strong> <a href="page.php?l=d#be3ix">Diary 日记</a></div>
+            <span class="posted_date"> 24 Apr <strong>2013</strong> </span>
+        </div> 
+        <img src="loelinyi_diary_image_be3ix.png" alt="黄金时代的结束？" />
+        <div class="pb_right">
+            <p>一场黄金暴跌风波，演绎全球悲喜人生。既创造出了一夜暴富的神话，也演绎了投资市场上的血雨腥风，而更多的是国与国之间的角力。</p>  
+            <div class="read_more"><a href="page.php?l=d#be3ix">read more ...</a></div>
+        </div>
+        <div class="cleaner"></div>
+    </div>
+
+    <div class="post_box">
+        <div class="header">
+            <h2><a href="page.php?l=d#be3ho">魔境仙踪</a></h2>
+            <div class="tag"><strong>Category:</strong> <a href="page.php?l=d#be3ho">Diary 日记</a></div>
+            <span class="posted_date"> 11 Apr <strong>2013</strong> </span>
+        </div>
+        <img src="loelinyi_diary_image_be3ho.png" alt="善良是生命力的源泉" />
+        <div class="pb_right">
+            <p>今年至今，我只看了两部电影：《OZ: The Great and Powerful 魔境仙踪》和《北京遇上西雅图》。既然给《北》篇写了篇评论，也就记录一下看《OZ》的经历和感想。</p>  
+            <div class="read_more"><a href="page.php?l=d#be3ho">read more ...</a></div>
+        </div>
+        <div class="cleaner"></div>
+    </div>
+
+    <div class="post_box">
+        <div class="header">
+            <h2><a href="page.php?l=d#be3hj">北京遇上西雅图</a></h2>
+            <div class="tag"><strong>Category:</strong> <a href="page.php?l=d#be3hj">Diary 日记</a></div>
+            <span class="posted_date"> 10 Apr <strong>2013</strong> </span>
+        </div>
+        <img src="loelinyi_diary_image_be3hj.png" alt="北京遇上西雅图" />
+        <div class="pb_right">
+            <p>看电影《北京遇上西雅图》主要是因为它在豆瓣上的评分，因为是国产电影，所以对它是期望就不太高，因此看完之后确实有种稍稍被惊喜的感觉。</p>  
+            <div class="read_more"><a href="page.php?l=d#be3hj">read more ...</a></div>
+        </div>
+        <div class="cleaner"></div>
+    </div>
+
+    <div class="post_box">
+        <div class="header">
+            <h2><a href="page.php?l=d#be3ez">李安获奖随感</a></h2>
+            <div class="tag"><strong>Category:</strong> <a href="page.php?l=d#be3ez">Diary 日记</a></div>
+            <span class="posted_date"> 26 Feb <strong>2013</strong> </span>
+        </div>
+        <img src="loelinyi_diary_image_be3ez.png" alt="李安获奖随感" />
+        <div class="pb_right">
+            <p>李安的电影《少年派》获得今年的奥斯卡最佳导演，最佳摄影，最佳视觉效果，最佳原创音乐4个大奖，成为今年奥斯卡的最大赢家。这个结果，既在意料之中，又出乎我的意料。</p>  
+            <div class="read_more"><a href="page.php?l=d#be3ez">read more ...</a></div>
+        </div>
+        <div class="cleaner"></div>
+    </div>
+
+    <div class="post_box">
+        <div class="header">
+            <h2><a href="page.php?l=d#armbh">上帝的精神</a></h2>
+            <div class="tag"><strong>Category:</strong> <a href="page.php?l=d#armbh">Diary 日记</a></div>
+            <span class="posted_date"> 15 Feb <strong>2013</strong> </span>
+        </div>
+        <img src="loelinyi_diary_image_armbh.png" alt="上帝的精神" />
+        <div class="pb_right">
+            <p>开始读《时间简史》是几年前的事了，最近又翻了一遍，书里讲述了大量的物理学知识，而讲述这些知识的目的，我的感受是为了理解上帝的精神。</p>
+            <div class="read_more"><a href="page.php?l=d#armbh">read more ...</a></div>
+        </div>
+        <div class="cleaner"></div>
+    </div>
+</div>
+

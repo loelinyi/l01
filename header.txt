@@ -1,0 +1,22 @@
+<div id="header">
+    <div id="site_title"> <a href='http://l01.ca'>人生如酒，万事有度，小酌怡情，过饮伤身</a> </div>
+    <div id="header_right">
+        <a href="http://loelinyi.com" target="_blank"><img src="loelinyi_tumblr_icon.png" alt="Yahoo! Tumblr" /></a>
+        <a href="http://loelinyi.blogspot.ca" target="_blank"><img src="loelinyi_blogger_icon.png" alt="Google Blogger" /></a>
+    </div>
+    <div class="cleaner"></div>
+</div>
+<div id="menu_wrapper">
+    <div id="menu">
+        <ul>
+            <li><a href="page.php" class="current"><span></span>Home 主页</a></li>
+            <li><a href="page.php?l=d"><span></span>Diary 日记</a></li>
+            <!--
+            <li><a href="page.php?l=n"><span></span>Novel 小说</a></li>
+            -->
+            <li><a href="page.php?l=p"><span></span>Picture 图片</a></li>
+            <li><a href="page.php?l=c"><span></span>Contact 联络</a></li>
+        </ul>
+    </div>
+</div>
+
