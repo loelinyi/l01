@@ -1,8 +1,8 @@
 <link rel="icon" type="image/ico" href="favicon.ico"></link> 
 <link rel="shortcut icon" href="favicon.ico"></link>
-<meta http-equiv="content-language" content="zh" />
 <meta name="keywords" content="l01 LoeLinYi 落灵驿" />
 <meta name="description" content="l01 LoeLinYi 落灵驿" />
 <meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<meta http-equiv="content-language" content="zh" />
 <link href="loelinyi.css" media="screen" rel="stylesheet" type="text/css" />
 <title>l01.ca</title>
