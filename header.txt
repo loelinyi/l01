@@ -1,5 +1,5 @@
 <div id="header">
-    <div id="site_title"> <a href='http://l01.ca'>人生如酒，万事有度，小酌怡情，过饮伤身</a> </div>
+    <div id="site_title"> <a href='http://l01.ca'>落&nbsp;灵&nbsp;驿</a> </div>
     <div id="header_right">
         <a href="http://loelinyi.com" target="_blank"><img src="loelinyi_tumblr_icon.png" alt="Yahoo! Tumblr" /></a>
         <a href="http://loelinyi.blogspot.ca" target="_blank"><img src="loelinyi_blogger_icon.png" alt="Google Blogger" /></a>
