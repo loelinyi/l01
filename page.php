@@ -10,9 +10,9 @@
 <div id="main">
 <?php
 	$page="home.txt";
-	if ($_GET['l']=="d") $page="diary.txt";
-	elseif ($_GET['l']=="n") $page="novel.txt";
-	elseif ($_GET['l']=="p") $page="picture.txt";
+	if ($_GET['l']=="d") $page="diary.php";
+	elseif ($_GET['l']=="n") $page="novel.php";
+	elseif ($_GET['l']=="p") $page="picture.php";
 	elseif ($_GET['l']=="c") $page="contact.txt";
 	include $page; 
 ?>
