@@ -1,0 +1,37 @@
+<div class="post_box">
+	<a name="be3ez"></a>
+	<h2>李安获奖随感</h2>
+	<div class="tag"><strong>李安同其他大导演的不同</strong></div>
+	<span class="posted_date"> 26 Feb <strong>2013</strong> </span>
+	<br /><br />
+	<!-- Add This Button BEGIN -->
+	<div id="sharethiswrapper">
+		<div class="addthis_toolbox addthis_default_style">
+			<a href="http://addthis.com/bookmark.php?v=250" class="addthis_button_compact" addthis:url="http://l01.ca/page.php?l=d#be3ez">Share</a>
+			<a class="addthis_button_email" addthis:url="http://l01.ca/page.php?l=d#be3ez"></a>
+			<span class="addthis_separator">&nbsp;</span>
+			<a class="addthis_button_google_plusone" addthis:url="http://l01.ca/page.php?l=d#be3ez"></a>
+			<a class="addthis_button_facebook" addthis:url="http://l01.ca/page.php?l=d#be3ez"></a>
+			<a class="addthis_button_facebook_like" addthis:url="http://l01.ca/page.php?l=d#be3ez"></a>
+			<span class="addthis_separator">&nbsp;</span>
+			<a class="addthis_button_tweet" addthis:url="http://l01.ca/page.php?l=d#be3ez"></a>
+			<script type="text/javascript">var addthis_config = {"data_track_clickback":true};</script>
+			<script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=filthyterrible"></script>
+		</div>
+	</div>
+	<!-- Add This Button END -->
+	<p>&nbsp;</p>
+	<img src="loelinyi_diary_image_be3ez.png" alt="李安获奖随感" />
+	<p>
+	李安的电影《少年派》获得今年的奥斯卡最佳导演，最佳摄影，最佳视觉效果，最佳原创音乐4个大奖，成为今年奥斯卡的最大赢家。这个结果，既在意料之中，又出乎我的意料。
+	</p>
+	<p>
+	去年看完电影《少年派》后，就觉得不会有什么电影能超过它了，得奥斯卡奖是理所当然，以至于接下来上映的大片如《霍比特人》、《悲惨世界》都没有兴致看了。然而又因为觉得《少年派》对宗教的解读颠覆了基督教，所以感觉《少年派》在美国得奖可能性不大，不过这次《少年派》的得奖说明我是多虑了。美国的宗教已经与时俱进了，在美国大部分人心中，上帝已经超越了圣经中的那个人格化的上帝，上帝已经是天、大自然、道、法的同意词了。扯远了，还是回到李安和他的电影，我在想为什么李安 能得奥斯卡奖，而张艺谋、陈凯歌、冯小刚等大导几次参加奥斯卡却得不到奖？
+	</p>
+	<p>
+	回答这个问题，自然就要问李安和张艺谋、陈凯歌、冯小刚等有什么不同？有网友的回答应该是很精辟的：李安是为电影而生；张艺谋、陈凯歌、冯小刚等是以电影为生。一个伟大的艺术家首先应当是一个伟大的思想家！而如果一个导演只注重电影的商业性和票房，故事迎合大众口味，艺术效果哗众取宠，或者为了得奖而投评委所好，这样的导演拍出来的电影不会有什么触动人心的思想，充其量也就是娱乐片。
+	</p>
+	<p>
+	李安和张艺谋、陈凯歌、冯小刚等的不同不仅仅在电影，更多的在生活。张艺谋、陈凯歌、冯小刚等在事业成功后，都有了外遇，然后离婚再婚。而李安的生活就简单的多，在获奖发言上，李安感谢他的妻子， 并提到他们结婚30年了。这两大不同大概就是为什么李安能得奥斯卡奖，而张艺谋、陈凯歌、冯小刚等得不到奖的原因了。
+	</p>
+</div>

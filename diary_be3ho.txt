@@ -1,0 +1,37 @@
+<div class="post_box">
+	<a name="be3ho"></a>
+	<h2>善良是生命力的源泉</h2>
+	<div class="tag"><strong>看《Oz: The Great and Powerful》的收获</strong></div>
+	<span class="posted_date"> 11 Apr <strong>2013</strong> </span>
+	<br /><br />
+	<!-- Add This Button BEGIN -->
+	<div id="sharethiswrapper">
+		<div class="addthis_toolbox addthis_default_style">
+			<a href="http://addthis.com/bookmark.php?v=250" class="addthis_button_compact" addthis:url="http://l01.ca/page.php?l=d#be3ho">Share</a>
+			<a class="addthis_button_email" addthis:url="http://l01.ca/page.php?l=d#be3ho"></a>
+			<span class="addthis_separator">&nbsp;</span>
+			<a class="addthis_button_google_plusone" addthis:url="http://l01.ca/page.php?l=d#be3ho"></a>
+			<a class="addthis_button_facebook" addthis:url="http://l01.ca/page.php?l=d#be3ho"></a>
+			<a class="addthis_button_facebook_like" addthis:url="http://l01.ca/page.php?l=d#be3ho"></a>
+			<span class="addthis_separator">&nbsp;</span>
+			<a class="addthis_button_tweet" addthis:url="http://l01.ca/page.php?l=d#be3ho"></a>
+			<script type="text/javascript">var addthis_config = {"data_track_clickback":true};</script>
+			<script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=filthyterrible"></script>
+		</div>
+	</div>
+	<!-- Add This Button END -->
+	<p>&nbsp;</p>
+	<img src="loelinyi_diary_image_be3ho.png" alt="魔境仙踪" />
+	<p>
+	今年至今，我只看了两部电影：《OZ: The Great and Powerful》和《北京遇上西雅图》。既然给《北》篇写了篇评论，也就记录一下看《OZ》的经历和感想。
+	</p>
+	<p>
+	《OZ》是今年March Break在美国看的，还是免费，说起来还是有点戏剧性的。每年March Break都会带孩子去旅游，今年是去美国肯德基州的Mammoth Cave国家公园，照例在回加拿大之前安排一天在美国的Outlets扫货，毕竟美国的东西便宜，这次安排在俄亥俄的辛辛那堤扫货。顺便提一下，Mammoth Cave是世界上最长的洞，有四百多英里长，差不多就是从多伦多到辛辛那堤了。逛Outlets是女士们的最爱，但让两个男孩在Outlets逛一天是不可想象的，所以吃过早饭来到Outlets，在男孩们还没有bored之前，以最快的速度搞定对于这个年龄的男孩来说属于易耗品的衣服裤子鞋子书包。然后吃完午饭，女士们继续逛Outlets，我带孩子们去看电影。
+	</p>
+	<p>
+	当时在IMDB上《OZ》的评分和票房最高，加上又是Disney的动画片，适合孩子们看，所以就决定看《OZ》。因为朋友家的孩子看3D电影会头晕，所以买了3张非3D的票，共24美刀，比起多伦多Cineplex的$12一张的票价要便宜一半了。进了放映厅，已经开始放广告和预告篇了，不过只有图像，没有声音，感觉象是在看哑剧。我以为到了影片正式开始会有声音的，没想到《OZ》正式开始，整个放映厅还是静悄悄的，正觉得奇怪的时候，一个影院的工作人员来到了放映厅，说这个放映厅的音响设备坏了，一时没法修好，反正今天是没法放了，对给大家带来的不便道歉，并全额退票。另外作为补偿，我们可以选择看3D的《OZ》，在另一个放映厅半小时以后就有一场，或改天来看非3D的《OZ》。对我们来说改天是不可能的，看3D又怕朋友家的孩子头晕，于是我问朋友家的孩子能不能将就一下，并且强调说是免费的，朋友家的孩子说，既然是免费的那就将就吧，于是就免费看了3D的《OZ》。
+	</p>
+	<p>
+	这是部典型的Ｄisney动画片，3D的效果相当不错，画面也很精致。故事的情节一如其它的Ｄisney动画片，相当的简单，典型的童话故事。影片的主人公一心想做个伟大的人，但却到处滥情，对爱他的人不知道珍惜，也不在乎他的助手对他的友谊，对坐在轮椅上的瘫痪女孩也没有同情心。然而经历了一场龙卷风来到了OZ仙境，面对需要拯救一个国家时，主人公与猴子先生建立了友谊，粘好了瓷姑娘的腿，帮助她站了起来，并通过智慧拯救了国家，赢得了奥兹国守护女巫的爱情。这种善良战胜邪恶的简单的公式化的甚至是脑残的故事，在美国的电影中一遍一遍的重复着，电影的票房说明了这种文化在美国有着普遍的基础。善良是生命力的源泉，如果把社会比做人的话，善良就象是好的细胞，邪恶就象是癌细胞，如果好的细胞总能战胜癌细胞，那这个人是有生命力的，即使病了也有能力治愈，而反之则这个社会就失去了生命力。我感觉相比国内的孩子，在美加长大的孩子普遍更单纯善良更富有同情心和正义感，这同始终相信善良是战胜一切的源泉是不无关系的。
+	</p>
+</div>

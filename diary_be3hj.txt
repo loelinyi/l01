@@ -1,0 +1,47 @@
+<div class="post_box">
+	<a name="be3hj"></a>
+	<h2>北京遇上西雅图</h2>
+	<div class="tag"><strong>一部直面社会实情的电影</strong></div>
+	<span class="posted_date"> 10 Apr <strong>2013</strong> </span>
+	<br /><br />
+	<!-- Add This Button BEGIN -->
+	<div id="sharethiswrapper">
+		<div class="addthis_toolbox addthis_default_style">
+			<a href="http://addthis.com/bookmark.php?v=250" class="addthis_button_compact" addthis:url="http://l01.ca/page.php?l=d#be3hj">Share</a>
+			<a class="addthis_button_email" addthis:url="http://l01.ca/page.php?l=d#be3hj"></a>
+			<span class="addthis_separator">&nbsp;</span>
+			<a class="addthis_button_google_plusone" addthis:url="http://l01.ca/page.php?l=d#be3hj"></a>
+			<a class="addthis_button_facebook" addthis:url="http://l01.ca/page.php?l=d#be3hj"></a>
+			<a class="addthis_button_facebook_like" addthis:url="http://l01.ca/page.php?l=d#be3hj"></a>
+			<span class="addthis_separator">&nbsp;</span>
+			<a class="addthis_button_tweet" addthis:url="http://l01.ca/page.php?l=d#be3hj"></a>
+			<script type="text/javascript">var addthis_config = {"data_track_clickback":true};</script>
+			<script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=filthyterrible"></script>
+		</div>
+	</div>
+	<!-- Add This Button END -->
+	<p>&nbsp;</p>
+	<img src="loelinyi_diary_image_be3hj.png" alt="北京遇上西雅图" />
+	<p>
+	看电影《北京遇上西雅图》主要是因为它在豆瓣上的评分，因为是国产电影，所以对它是期望就不太高，因此看完之后确实有种稍稍被惊喜的感觉。
+	</p>
+	<p>
+	整部电影制作并不精致，穿帮镜头有不少，电影讲的在西雅图发生的事，而有几处是温哥华的穿帮镜头，温哥华604区号的电话号码，加拿大的警车都在电影的镜头里出现了。
+	</p>
+	<p>
+	电影的剧情也没有什么新意，甚至还有些不合理。比如汤唯演的拜金女文佳佳，在剧情上除了电影刚开始，那段公式化的不差钱之外，接下来是上得了厨房，刷得了马桶，而且学习能力超强。在短时间内从英语一句不会到能在Frank前妻的婚礼上如此地夸奖Frank。并且很快视金钱如粪土，50万的包随便就送人了，居然说出“钱多有什么用，那都是无心的”至理名言，很难想象生活中的拜金女有如此素质。再比如文佳佳善自带Frank的女儿去纽约，在纽约的警局里Frank说谎来帮助文佳佳继续留在美国，老钟的太太居然打电话通知文佳佳等等......
+	</p>
+	<p>
+	然而这部电影还是让我有种稍稍惊喜的感觉，仔细想想，其原因是影片说出了现在的社会实情：<br />
+	相比国内，在国外能喝干净水、呼吸新鲜空气、吃放心肉、喝放心奶。<br />
+	相比国内，国外的环境很优美、国外的房价很便宜（其实不仅是房价，物价都比国内便宜）。<br />
+	在国内，国家兴亡，匹夫有责。<br />
+	在国外，匹夫兴亡，国家有责。<br />
+	所以文佳佳赴美生子，为孩子找个好国家。<br />
+	所以Frank移民美国，为女儿有个好的环境。<br />
+	所以一个移民美国的落魄叔，完胜一个中国日入斗金的老总......
+	</p>
+	<p>
+	放眼现在的国内，屏幕上抗日剧铺天盖地，清宫戏泛滥，因为这些题材最安全。而《北》篇至少不再做鸵鸟，直面了现在的社会形状，因此也就有了惊喜的感觉。
+	</p>
+</div>

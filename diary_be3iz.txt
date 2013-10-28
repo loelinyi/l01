@@ -1,0 +1,37 @@
+<div class="post_box">
+	<a name="be3iz"></a>
+	<h2>黄金时代的结束</h2>
+	<div class="tag"><strong>黄金避险地位已经被毁灭</strong></div>
+	<span class="posted_date"> 30 Apr <strong>2013</strong> </span>
+	<br /><br />
+	<!-- Add This Button BEGIN -->
+	<div id="sharethiswrapper">
+		<div class="addthis_toolbox addthis_default_style">
+			<a href="http://addthis.com/bookmark.php?v=250" class="addthis_button_compact" addthis:url="http://l01.ca/page.php?l=d#be3iz">Share</a>
+			<a class="addthis_button_email" addthis:url="http://l01.ca/page.php?l=d#be3iz"></a>
+			<span class="addthis_separator">&nbsp;</span>
+			<a class="addthis_button_google_plusone" addthis:url="http://l01.ca/page.php?l=d#be3iz"></a>
+			<a class="addthis_button_facebook" addthis:url="http://l01.ca/page.php?l=d#be3iz"></a>
+			<a class="addthis_button_facebook_like" addthis:url="http://l01.ca/page.php?l=d#be3iz"></a>
+			<span class="addthis_separator">&nbsp;</span>
+			<a class="addthis_button_tweet" addthis:url="http://l01.ca/page.php?l=d#be3iz"></a>
+			<script type="text/javascript">var addthis_config = {"data_track_clickback":true};</script>
+			<script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=filthyterrible"></script>
+		</div>
+	</div>
+	<!-- Add This Button END -->
+	<p>&nbsp;</p>
+	<img src="loelinyi_diary_image_be3iz.png" alt="黄金时代的结束" />
+	<p>
+	各种商品包括无形的如股票等，从长期趋势来看都是上涨的，这个上涨是可以理解的，因为通货膨胀的关系。比如房地产，我以前在多伦多士嘉堡买的那间独立屋，买的时候是25万加元，老房东告诉我在50年前，这间独立屋的售价是2万5加元，50年涨了10倍。又比如股票，现在美国标准普尔指数是1600点，而50年前也就是160点，也是50年涨了10倍。其它的如铜，银，橡胶，大豆，钻石也应该是一样的上涨，差别只在于上涨的倍数。黄金在2005年时是$400/盎司，在这之前也在上涨，我没有具体数据，不知道50年前是不是$40/盎司，但涨幅是比较正常的。而2005年后，黄金一路飙升，到2011年涨到$1900/盎司，6年将近翻了5倍，原因自然是各国央行增加了黄金储备而打破了原来的黄金供求平衡。
+	</p>
+	<p>
+	黄金本身值多少钱？如果金矿公司开采每盎司黄金的成本是$400，那么以$1900的价格成交，也是基于黄金的信用度，买入者至少认为他可以以同样的价格，甚至是更高的价格卖出，否则他决无理由以$1900的价格买入。所以黄金同纸币一样，只是纸币的99％是因为信誉度，而黄金是66％的价格是因为信誉度。可以想象，如果黄金突然不再作为储备货币，现在的已有的黄金已经大大超过黄金的工业需求和饰品需求。
+	</p>
+	<p>
+	从国家的角度，中国这些年一直是买什么什么就贵，卖什么什么就便宜。本以为黄金是一个避险场所，结果也不是。国与国是靠实力讲话的，有实力手里的大粪也能买金子价，没实力手里的金子也只能买大粪价，想通过黄金的保值来存储顺差和财政盈余并不可靠。虽然黄金几千年来都是储备货币，但现在美国已有废掉黄金的心思，不要以为是天方夜谭，小看美国是要吃亏的。日本是聪明的，跟美国对着干没好处，所以早早地减少了黄金储备。如果这次打压黄金后，美国在低价位吃进足够的黄金，那黄金就是新的一轮推高再出货的走势。现在中国人在疯抢黄金，如果美国没能在低价位吃进足够的黄金，那就不要奇怪黄金的价格会长期低迷。
+	</p>
+	<p>
+	从个人的角度，如果有黄金和各种纸币，是先用黄金还是纸币？当然是纸币，因为纸币贬值更快。然而从养老的角度，到底是存黄金，还是房子，还是股票等其它资产？国内的人疯抢黄金也许不是好的选择，因为索罗斯的“黄金避险地位已经被毁灭的观点”没错。
+	</p>
+</div>

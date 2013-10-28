@@ -1,0 +1,32 @@
+<div class="post_box">
+	<a name="ip3nk"></a>
+	<h2>游大峽谷</h2>
+	<span class="posted_date"> July <strong>2013</strong> </span>
+	<br /><br />
+	<!-- Add This Button BEGIN -->
+	<div id="sharethiswrapper">
+		<div class="addthis_toolbox addthis_default_style">
+			<a href="http://addthis.com/bookmark.php?v=250" class="addthis_button_compact" addthis:url="http://l01.ca/page.php?l=p#ip3nk">Share</a>
+			<a class="addthis_button_email" addthis:url="http://l01.ca/page.php?l=p#ip3nk"></a>
+			<span class="addthis_separator">&nbsp;</span>
+			<a class="addthis_button_google_plusone" addthis:url="http://l01.ca/page.php?l=p#ip3nk"></a>
+			<a class="addthis_button_facebook" addthis:url="http://l01.ca/page.php?l=p#ip3nk"></a>
+			<a class="addthis_button_facebook_like" addthis:url="http://l01.ca/page.php?l=p#ip3nk"></a>
+			<span class="addthis_separator">&nbsp;</span>
+			<a class="addthis_button_tweet" addthis:url="http://l01.ca/page.php?l=p#ip3nk"></a>
+			<script type="text/javascript">var addthis_config = {"data_track_clickback":true};</script>
+			<script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=filthyterrible"></script>
+		</div>
+	</div>
+	<!-- Add This Button END -->
+	<br />
+	<div class="tag">
+	一直以為大峽谷是地球造山運動的傑作，一直以為是因為有了大峽谷形成的谷底才有了科羅拉多河。而事實上造山運動只形成了這片平坦的由沙石組成的荒漠高原，是科羅拉多河經過几百萬年的沖刷侵蝕，才形成了這雄偉壯觀的大峽谷。延綿不斷的大峽谷，雖然處在枯水期，但仍能強烈地感到長時間延綿不斷的流水留下的痕跡。經流大峽谷的涓涓水流，既不壯觀也不清澈，從源頭奔流到大海旅程，在已經過去的六百萬年中只是短短的一瞬間。即便如此，水還是在這高原峽谷中留下了壯觀的痕跡。有些水，流過河床，直接留下了印痕印記，而更多的水只是在水流的中間……。它們在奔流到海的旅程中，共同留下了最美麗的風景，留下了瞬間的永恆。
+	</div>
+	<p>&nbsp;</p>
+	<p>
+		<a class="fancybox" href="loelinyi_picture_ip3nk_01_1.jpg" data-fancybox-group="gallery" title="Grand Canyon, North Rim"><img src="loelinyi_picture_ip3nk_01_0.jpg" alt="Grand Canyon, North Rim" /></a>
+		<a class="fancybox" href="loelinyi_picture_ip3nk_02_1.jpg" data-fancybox-group="gallery" title="Grand Canyon, Colorado River"><img src="loelinyi_picture_ip3nk_02_0.jpg" alt="Grand Canyon, Colorado River" /></a>
+		<a class="fancybox" href="loelinyi_picture_ip3nk_03_1.jpg" data-fancybox-group="gallery" title="Grand Canyon, South Rim"><img src="loelinyi_picture_ip3nk_03_0.jpg" alt="Grand Canyon, South Rim" /></a>
+	</p>
+</div>

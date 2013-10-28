@@ -1,0 +1,70 @@
+<div class="post_box">
+	<a name="be3kz"></a>
+	<h2>人生的乐趣</h2>
+	<div class="tag"><strong>（网文修改版）</strong></div>
+	<span class="posted_date"> 29 May <strong>2013</strong> </span>
+	<br /><br />
+	<!-- Add This Button BEGIN -->
+	<div id="sharethiswrapper">
+		<div class="addthis_toolbox addthis_default_style">
+			<a href="http://addthis.com/bookmark.php?v=250" class="addthis_button_compact" addthis:url="http://l01.ca/page.php?l=d#be3kz">Share</a>
+			<a class="addthis_button_email" addthis:url="http://l01.ca/page.php?l=d#be3kz"></a>
+			<span class="addthis_separator">&nbsp;</span>
+			<a class="addthis_button_google_plusone" addthis:url="http://l01.ca/page.php?l=d#be3kz"></a>
+			<a class="addthis_button_facebook" addthis:url="http://l01.ca/page.php?l=d#be3kz"></a>
+			<a class="addthis_button_facebook_like" addthis:url="http://l01.ca/page.php?l=d#be3kz"></a>
+			<span class="addthis_separator">&nbsp;</span>
+			<a class="addthis_button_tweet" addthis:url="http://l01.ca/page.php?l=d#be3kz"></a>
+			<script type="text/javascript">var addthis_config = {"data_track_clickback":true};</script>
+			<script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=filthyterrible"></script>
+		</div>
+	</div>
+	<!-- Add This Button END -->
+	<p>&nbsp;</p>
+	<img src="loelinyi_diary_image_be3kz.png" alt="人生的乐趣（网文修改版）" />
+	<p>
+	花开时节，有赏花的心情；感受春天的微风轻抚最初萌芽的青草和树叶，把稚嫩的清香散播到四面八方；酷热的夏天，享受一场豪雨和随之而来的凉爽、清新、草木苍翠；在秋天火一样的红叶面前停下脚步，体味凋谢前最盛大的灿烂；站在温暖的窗户后面欣赏大雪最初的样子：轻盈、迷蒙、笼罩大地，洁白还无人践踏。
+	</p>
+	<p>
+	没有预谋的闲聊空谈，却生出实际漂亮的事情来。如同野游采摘到美味的山果；说话投机：有些迷乱豁然开朗，如同苗圃除尽了杂草；有些感觉处处共鸣，如同鲜花映照在清潭。
+	</p>
+	<p>
+	生命中有一个可以单相思的女神级别的对象，美中不足的生活就有了完美的寄托，但并不是主仆关系，这不同于基督徒有一个上帝。
+	</p>
+	<p>
+	有人背后称赞你，被你无意听到或者有人转告你。
+	</p>
+	<p>
+	回忆中的旅途生活。腰酸背痛过去了，腰酸背痛得来的东西却在。
+	</p>
+	<p>
+	看到流星坠落或者昙花开放。暂时不停留的东西，却给自己留下了永恒，只因为它来的时候，你等候了，或者巧遇到了。
+	</p>
+	<p>
+	瓜果应季，喜欢瓜果的人牙好、胃口好。
+	</p>
+	<p>
+	感觉自己的心情像山野溪流的时候。
+	</p>
+	<p>
+	喝酒的时候，是心在应对，而不是肠胃在应对。如同焚香，要的只是一种香的氛围，而不是把香氛当氧气，这也是酒逢知己饮的本意。在人群中遇到一个和自己喜欢同一个品牌的人，彼此接近，更发现还有很多相同和相通。
+	</p>
+	<p>
+	有很够分量的情敌，你却不战而胜，这是棋逢对手或物有所值的含义之一。
+	</p>
+	<p>
+	做最优秀的配角。比如，在给朋友当伴娘的时候，你是新娘之外，显得最出众的女人，不抢朋友的风头又给朋友长了脸，你够仗义，你除了称职还不委屈自己。
+	</p>
+	<p>
+	有一个可以回去的故乡，那里有老父母、老房子，小时候爬过的那颗树以及和自己爬过树的伙伴。
+	</p>
+	<p>
+	有几个朋友，无论空间距离远近，你们之间的感觉是那样的：相见亦无事，别来常思君。
+	</p>
+	<p>
+	无论你的事业多么成功，你都没有被人忘记是一个女人。
+	</p>
+	<p>
+	有一个异性死党，你们不谈性，而且彼此的配偶相信你们。
+	</p>
+</div>
