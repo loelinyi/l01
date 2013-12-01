@@ -17,6 +17,20 @@
         </div>
     </div>
     <div class="sidebar_box">
+        <h3>SEARCH 搜索</h3>
+        <div class="sb_content">
+            <script>
+                (function() {
+                    var cx = '004681311097563606112:bl6oyxdpe24';
+                    var gcse = document.createElement('script'); gcse.type = 'text/javascript'; gcse.async = true;
+                    gcse.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') + '//www.google.com/cse/cse.js?cx=' + cx;
+                    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(gcse, s);
+                })();
+            </script>
+            <gcse:search></gcse:search>
+        </div>
+    </div>
+    <div class="sidebar_box">
         <h3>RECENT TWEETS</h3>
         <div class="sb_content">
             <a class="twitter-timeline" href="https://twitter.com/LoeLinYi" data-widget-id="340505820578054144" data-theme="dark" width="250" height="500" data-chrome="noheader nofooter noscrollbar transparent">Tweets by @LoeLinYi</a>
@@ -44,7 +58,7 @@
                 <li><a href="page.php?l=d#be3kz">2013-05-29</a></li>
                 <li><a href="page.php?l=d#an3ky">2013-05-25</a></li>
                 <li><a href="page.php?l=d#be3iz">2013-04-30</a></li>
-                <li><a href="page.php?l=d#be3ix">2013-04-34</a></li>
+                <li><a href="page.php?l=d#be3ix">2013-04-24</a></li>
                 <li><a href="page.php?l=d#be3ho">2013-04-11</a></li>
                 <li><a href="page.php?l=d#be3hj">2013-04-10</a></li>
                 <li><a href="page.php?l=d#be3ez">2013-02-26</a></li>
