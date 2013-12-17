@@ -1,5 +1,5 @@
 <div id="content">
-<div class="content_box"><h1>Diary - 日记</h1></div>
+<div class="content_box"><h1>Diary 日记</h1></div>
 <?php
 if ($_GET['y']=="2")
 {
