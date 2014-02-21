@@ -9,6 +9,7 @@ elseif ($_GET['y']=="1")
 }
 else
 {
+	include "diary_be4et.txt";
 	include "diary_be3tf.txt";
 	include "diary_be3sv.txt";
 	include "diary_be3kz.txt";
