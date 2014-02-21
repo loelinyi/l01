@@ -7,6 +7,20 @@
 
     <div class="post_box">
         <div class="header">
+            <h2><a href="page.php?l=d#be4et">奶奶，侬放心么蛋</a></h2>
+            <div class="tag"><strong>Category:</strong> <a href="page.php?l=d#be4et">Diary 日记</a></div>
+            <span class="posted_date"> 20 Feb <strong>2014</strong> </span>
+        </div>
+        <img src="loelinyi_diary_image_be4et.png" alt="奶奶，侬放心么蛋" />
+        <div class="pb_right">
+            <p>加拿大东部时间2014年2月18日晚上9点56分，看到表妹发来的微信：“奶奶刚刚去世！”<br />电话打到上海，爸爸在电话里对我说，奶奶刚走，安静地走了，如同一支蜡烛，燃尽了最后的生命，静静地熄灭了。</p>  
+            <div class="read_more"><a href="page.php?l=d#be4et">read more ...</a></div>
+        </div>
+        <div class="cleaner"></div>
+    </div>
+
+    <div class="post_box">
+        <div class="header">
             <h2><a href="page.php?l=p#ip3tn">感恩节的枫叶</a></h2>
             <div class="tag"><strong>Category:</strong> <a href="page.php?l=p#ip3tn">Picture 图片</a></div>
             <span class="posted_date"> 14 Oct <strong>2013</strong> </span>

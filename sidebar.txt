@@ -2,6 +2,7 @@
     <div class="sidebar_box">
         <h3>RECENT POST 更新</h3>
         <div class="sb_content">
+            <a href="page.php?l=d#be4et" style="font-size:18px">奶奶，侬放心么蛋&nbsp;</a>
             <a href="page.php?l=p#ip3tn" style="font-size:24px">感恩节的枫叶&nbsp;</a>
             <a href="page.php?l=d#be3tf" style="font-size:16px">读顾城论薛宝钗有感&nbsp;</a>
             <a href="page.php?l=d#be3sv" style="font-size:11px">有感于陈道明评王菲离婚&nbsp;</a>
@@ -51,6 +52,7 @@
         <h3>ARCHIVES 存档</h3>
         <div class="sb_content">
             <ul class="sidebar_menu">
+                <li><a href="page.php?l=d#be4et">2014-02-20</a></li>
                 <li><a href="page.php?l=p#ip3tn">2013-10-14</a></li>
                 <li><a href="page.php?l=d#be3tf">2013-10-05</a></li>
                 <li><a href="page.php?l=d#be3sv">2013-09-22</a></li>
