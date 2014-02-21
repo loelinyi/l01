@@ -7,5 +7,6 @@
         <li><a href="page.php?l=c">Contact 联络</a></li>
     </ul>
     Copyright &copy; 2012 <a href='http://l01.ca'>l01.ca</a> Designed by <a href='http://l01.ca'>l01.ca</a>
+    <div id="google_translate_element"></div>
 </div>
 

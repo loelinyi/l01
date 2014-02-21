@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 <?php include 'head.txt'; ?>
-<?php include 'google_analytics.txt'; ?>
+<?php include 'google.txt'; ?>
 <?php if ($_GET['l']=="p") include "fancybox.txt"; ?>
 </head>
 <body>
