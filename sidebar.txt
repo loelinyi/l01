@@ -2,19 +2,15 @@
     <div class="sidebar_box">
         <h3>RECENT POST 更新</h3>
         <div class="sb_content">
-            <a href="page.php?l=d#be4et" style="font-size:18px">奶奶，侬放心么蛋&nbsp;</a>
-            <a href="page.php?l=p#ip3tn" style="font-size:24px">感恩节的枫叶&nbsp;</a>
-            <a href="page.php?l=d#be3tf" style="font-size:16px">读顾城论薛宝钗有感&nbsp;</a>
-            <a href="page.php?l=d#be3sv" style="font-size:11px">有感于陈道明评王菲离婚&nbsp;</a>
-            <a href="page.php?l=p#ip3nk" style="font-size:20px">游大峽谷&nbsp;</a>
-            <a href="page.php?l=d#be3kz" style="font-size:12px">人生的乐趣&nbsp;</a>
-            <a href="page.php?l=d#an3ky" style="font-size:16px">人生最珍贵的不是得不到和已失去，而是珍惜现在所拥有的……&nbsp;</a>
-            <a href="page.php?l=d#be3iz" style="font-size:28px">黄金时代的结束&nbsp;</a>
-            <a href="page.php?l=d#be3ix" style="font-size:14px">黄金时代的结束?&nbsp;</a>
-            <a href="page.php?l=d#be3ho" style="font-size:11px">魔境仙踪&nbsp;</a>
-            <a href="page.php?l=d#be3hj" style="font-size:20px">北京遇上西雅图&nbsp;</a>
-            <a href="page.php?l=d#be3ez" style="font-size:14px">李安获奖随感&nbsp;</a>
-            <a href="page.php?l=d#armbh" style="font-size:12px">上帝的精神&nbsp;</a>
+            <a href="page.php?l=d#be4gv" style="font-size:24px">上海印象&nbsp;</a><br />
+            <a href="page.php?l=d#be4et" style="font-size:20px">奶奶，侬放心么蛋&nbsp;</a><br />
+            <a href="page.php?l=p#ip3tn" style="font-size:18px">感恩节的枫叶&nbsp;</a><br />
+            <a href="page.php?l=d#be3tf" style="font-size:16px">读顾城论薛宝钗有感&nbsp;</a><br />
+            <a href="page.php?l=d#be3sv" style="font-size:14px">有感于陈道明评王菲离婚&nbsp;</a><br />
+            <a href="page.php?l=p#ip3nk" style="font-size:12px">游大峽谷&nbsp;</a><br />
+            <a href="page.php?l=d#be3kz" style="font-size:11px">人生的乐趣&nbsp;</a><br />
+            <a href="page.php?l=d#an3ky" style="font-size:10px">人生最珍贵的不是得不到和已失去，而是珍惜现在所拥有的……&nbsp;</a><br />
+            <a href="page.php?l=d#be3iz" style="font-size:9px">黄金时代的结束&nbsp;</a>
         </div>
     </div>
     <div class="sidebar_box">
@@ -52,6 +48,7 @@
         <h3>ARCHIVES 存档</h3>
         <div class="sb_content">
             <ul class="sidebar_menu">
+                <li><a href="page.php?l=d#be4gv">2014-03-22</a></li>
                 <li><a href="page.php?l=d#be4et">2014-02-20</a></li>
                 <li><a href="page.php?l=p#ip3tn">2013-10-14</a></li>
                 <li><a href="page.php?l=d#be3tf">2013-10-05</a></li>
@@ -62,9 +59,9 @@
                 <li><a href="page.php?l=d#be3iz">2013-04-30</a></li>
                 <li><a href="page.php?l=d#be3ix">2013-04-24</a></li>
                 <li><a href="page.php?l=d#be3ho">2013-04-11</a></li>
-                <li><a href="page.php?l=d#be3hj">2013-04-10</a></li>
-                <li><a href="page.php?l=d#be3ez">2013-02-26</a></li>
-                <li><a href="page.php?l=d#armbh">2013-02-15</a></li>
+                <li><a href="page.php?l=d&y=1#be3hj">2013-04-10</a></li>
+                <li><a href="page.php?l=d&y=1#be3ez">2013-02-26</a></li>
+                <li><a href="page.php?l=d&y=1#armbh">2013-02-15</a></li>
             </ul>
         </div>
     </div>

@@ -7,6 +7,20 @@
 
     <div class="post_box">
         <div class="header">
+            <h2><a href="page.php?l=d#be4gv">上海印象</a></h2>
+            <div class="tag"><strong>Category:</strong> <a href="page.php?l=d#be4gv">Diary 日记</a></div>
+            <span class="posted_date"> 22 March <strong>2014</strong> </span>
+        </div>
+        <img src="loelinyi_diary_image_be4gv.png" alt="上海印象" />
+        <div class="pb_right">
+            <p>我们回来啦!总有朋友问起上海怎么样.一言难尽.之前没有太多的期许或戒备,只是平和地体验与真实地接纳.于是想来会偏颇得少些.</p>  
+            <div class="read_more"><a href="page.php?l=d#be4gv">read more ...</a></div>
+        </div>
+        <div class="cleaner"></div>
+    </div>
+
+    <div class="post_box">
+        <div class="header">
             <h2><a href="page.php?l=d#be4et">奶奶，侬放心么蛋</a></h2>
             <div class="tag"><strong>Category:</strong> <a href="page.php?l=d#be4et">Diary 日记</a></div>
             <span class="posted_date"> 20 Feb <strong>2014</strong> </span>
@@ -147,42 +161,42 @@
 
     <div class="post_box">
         <div class="header">
-            <h2><a href="page.php?l=d#be3hj">北京遇上西雅图</a></h2>
-            <div class="tag"><strong>Category:</strong> <a href="page.php?l=d#be3hj">Diary 日记</a></div>
+            <h2><a href="page.php?l=d&y=1#be3hj">北京遇上西雅图</a></h2>
+            <div class="tag"><strong>Category:</strong> <a href="page.php?l=d&y=1#be3hj">Diary 日记</a></div>
             <span class="posted_date"> 10 Apr <strong>2013</strong> </span>
         </div>
         <img src="loelinyi_diary_image_be3hj.png" alt="北京遇上西雅图" />
         <div class="pb_right">
             <p>看电影《北京遇上西雅图》主要是因为它在豆瓣上的评分，因为是国产电影，所以对它是期望就不太高，因此看完之后确实有种稍稍被惊喜的感觉。</p>  
-            <div class="read_more"><a href="page.php?l=d#be3hj">read more ...</a></div>
+            <div class="read_more"><a href="page.php?l=d&y=1#be3hj">read more ...</a></div>
         </div>
         <div class="cleaner"></div>
     </div>
 
     <div class="post_box">
         <div class="header">
-            <h2><a href="page.php?l=d#be3ez">李安获奖随感</a></h2>
-            <div class="tag"><strong>Category:</strong> <a href="page.php?l=d#be3ez">Diary 日记</a></div>
+            <h2><a href="page.php?l=d&y=1#be3ez">李安获奖随感</a></h2>
+            <div class="tag"><strong>Category:</strong> <a href="page.php?l=d&y=1#be3ez">Diary 日记</a></div>
             <span class="posted_date"> 26 Feb <strong>2013</strong> </span>
         </div>
         <img src="loelinyi_diary_image_be3ez.png" alt="李安获奖随感" />
         <div class="pb_right">
             <p>李安的电影《少年派》获得今年的奥斯卡最佳导演，最佳摄影，最佳视觉效果，最佳原创音乐4个大奖，成为今年奥斯卡的最大赢家。这个结果，既在意料之中，又出乎我的意料。</p>  
-            <div class="read_more"><a href="page.php?l=d#be3ez">read more ...</a></div>
+            <div class="read_more"><a href="page.php?l=d&y=1#be3ez">read more ...</a></div>
         </div>
         <div class="cleaner"></div>
     </div>
 
     <div class="post_box">
         <div class="header">
-            <h2><a href="page.php?l=d#armbh">上帝的精神</a></h2>
-            <div class="tag"><strong>Category:</strong> <a href="page.php?l=d#armbh">Diary 日记</a></div>
+            <h2><a href="page.php?l=d&y=1#armbh">上帝的精神</a></h2>
+            <div class="tag"><strong>Category:</strong> <a href="page.php?l=d&y=1#armbh">Diary 日记</a></div>
             <span class="posted_date"> 15 Feb <strong>2013</strong> </span>
         </div>
         <img src="loelinyi_diary_image_armbh.png" alt="上帝的精神" />
         <div class="pb_right">
             <p>开始读《时间简史》是几年前的事了，最近又翻了一遍，书里讲述了大量的物理学知识，而讲述这些知识的目的，我的感受是为了理解上帝的精神。</p>
-            <div class="read_more"><a href="page.php?l=d#armbh">read more ...</a></div>
+            <div class="read_more"><a href="page.php?l=d&y=1#armbh">read more ...</a></div>
         </div>
         <div class="cleaner"></div>
     </div>
